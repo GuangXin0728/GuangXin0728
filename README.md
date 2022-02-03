@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, 👋I'm GuangXin
+### 🌱 I’m currently learning ...
 <!--
 **GuangXin0728/GuangXin0728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi there, 👋I'm GuangXin <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+🎯 I'm from China.
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: You may follow me on [Zhihu](https://www.zhihu.com/people/airing) or my blog-[ursb.me](https://me.ursb.me)
